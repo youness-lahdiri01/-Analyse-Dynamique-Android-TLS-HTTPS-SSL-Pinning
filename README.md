@@ -269,7 +269,6 @@ frida -U -f com.example.app -l ssl_bypass.js
 ```
 
 ---
-<img width="605" height="261" alt="image" src="https://github.com/user-attachments/assets/b191190b-6278-420a-8ba1-602a55024e68" />
 
 # Étape 10 — Vérification
 
@@ -388,6 +387,7 @@ frida-ps -Uai
 ```bash
 frida -U -f com.example.app -l ssl_bypass.js
 ```
+<img width="858" height="420" alt="Screenshot 2026-04-22 162059" src="https://github.com/user-attachments/assets/c0669dbd-9f2e-4d81-8d96-3f47c5e7a861" />
 
 ---
 
